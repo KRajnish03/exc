@@ -3,9 +3,9 @@
 
 **COMPANY**: CODTECH IT SOLUTIONS
 
-**NAME**: Sandeep
+**NAME**: Rajnish Kumar
 
-**INTERN ID**: CT08DK915
+**INTERN ID**: CT08DK929
 
 
 
